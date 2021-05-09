@@ -2,7 +2,7 @@
 
 - InfoSec Enthusiast
 - Mechatronics Technician
-- 
+
 ![imartinspy](https://www.hackthebox.eu/badge/image/172400)
 
 ## Follow me on my social media

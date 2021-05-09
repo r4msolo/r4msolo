@@ -3,7 +3,7 @@
 - InfoSec Enthusiast
 - Mechatronics Technician
 
-![imartinspy](https://www.hackthebox.eu/badge/image/172400) <img src='https://github.githubassets.com/images/mona-whisper.gif'>
+![imartinspy](https://www.hackthebox.eu/badge/image/172400) <img src='https://github.githubassets.com/images/mona-whisper.gif' height='60px'>
 
 ## Follow me on my social media
 

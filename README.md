@@ -5,4 +5,4 @@
 ![](http://www.hackthebox.eu/badge/image/172400)
 ## Follow me on my social media
 
-[LinkedIn](https://www.linkedin.com/in/igor-m-martins-705a50192) | [Twitter](https://www.twitter.com/r4msolo) | [Medium](https:///r4msolo.medium.com)
+[LinkedIn](https://www.linkedin.com/in/igor-m-705a50192/) | [Twitter](https://www.twitter.com/r4msolo) | [Medium](https:///r4msolo.medium.com)
